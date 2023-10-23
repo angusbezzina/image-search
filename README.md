@@ -1,3 +1,5 @@
+This is almost an exact replica of the repo [here](https://github.com/pinecone-io/image-search-example).
+
 # Image search
 
 In this tutorial, we'll learn how to build an image search engine using Pinecone and the CLIP model. We'll use a small dataset of images (included in this repository) and show how to embed and index them in Pinecone. We'll then show how to query the index to find similar images.
